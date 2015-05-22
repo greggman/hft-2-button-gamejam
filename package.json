@@ -1,0 +1,14 @@
+{
+  "name": "2 Button Gamejam",
+  "version": "0.0.1",
+  "description": "2 button gamejam game",
+  "dependencies": {},
+  "happyFunTimes": {
+    "apiVersion": "1.10.0",
+    "category": "example",
+    "gameId": "2-button-gamejam",
+    "gameType": "html",
+    "minPlayers": 1
+  },
+  "private": false
+}
