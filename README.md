@@ -3,8 +3,6 @@ HFT-2-BUTTON-GAMEJAM
 
 This is a template for the [Pico Pico Cafe](http://picopicocafe.com) [HappyFunTimes](http://docs.happyfuntimes.net) 2 button gamejam
 
-This is a sample game for the [HappyFunTimes party games system](http://greggman.github.io/HappyFunTimes).
-
 <img src="screenshot.png" />
 
 ## Terse Instructions
@@ -71,4 +69,7 @@ It would be nice if you'd pick name and id for you game.
 Edit `package.json` and change the `name`, `description` and `id`
 
 You can type `hft check` to make sure everything is ok, or just ask.
+
+This has no impact for the jam probably. It's just nice to edit it
+now before we forget.
 
