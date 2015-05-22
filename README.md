@@ -36,7 +36,9 @@ This is a sample game for the [HappyFunTimes party games system](http://greggman
     *   Make sure it's **on the same WiFi as your computer**.
     *   On your phone's browser go to `http://happfuntimes.net`
 
-    The phone should connect
+    The phone should connect. Since it's a gamejam you'll likely
+    see a list of systems to choose from. They default to the name
+    of your computer so pick yours.
 
 ## Short Docs
 
@@ -62,4 +64,11 @@ This sample is using the HTML5 canvas 2d api. It's easy but it's
 often slow. If you'd like help loading images and using them
 or using WebGL for either 2d or 3d just ask.
 
+## Setting your game's name
+
+It would be nice if you'd pick name and id for you game.
+
+Edit `package.json` and change the `name`, `description` and `id`
+
+You can type `hft check` to make sure everything is ok, or just ask.
 
