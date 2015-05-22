@@ -56,12 +56,10 @@ a player starts it picks a random color and sends that color to
 the controller. The controller then colorizes itself to match.
 
 Use that as a template if you want to send more messages to the
-controller. Or just ask me.
+controller.
 
-
-
-
-
-
+This sample is using the HTML5 canvas 2d api. It's easy but it's
+often slow. If you'd like help loading images and using them
+or using WebGL for either 2d or 3d just ask.
 
 
